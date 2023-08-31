@@ -1,7 +1,6 @@
 * 👋 Olá, sou Caio Henrique tenho 17 anos.
 * 🌱 Atualmente estou trabalhando como desenvolvedor na Bw8 Martech.
 * 📫 caiobigmarle@gmail.com
-* 📱 (43) 98459-1028
 * 📍 Londrina/PR
 
 ![CaioTico GitHub stats](https://github-readme-stats.vercel.app/api?username=CaioTico&hide=contribs,prs&theme=midnight-purple)
