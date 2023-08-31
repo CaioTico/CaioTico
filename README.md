@@ -1,10 +1,22 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7E3ACE&height=120&section=header"/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=7E3ACE&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+CAIO+HENRIQUE;I'm+17+years+old;I+from+Brasil,+PR;I+study+systems+development;Be+Welcome!+:%29)](https://git.io/typing-svg)
+
 * 👋 Olá, sou Caio Henrique tenho 17 anos.
 * 🌱 Atualmente estou trabalhando como desenvolvedor na Bw8 Martech.
 * 📫 caiobigmarle@gmail.com
 * 📍 Londrina/PR
 
-![CaioTico GitHub stats](https://github-readme-stats.vercel.app/api?username=CaioTico&hide=contribs,prs&theme=midnight-purple)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CaioTico&layout=compact)](https://github.com/CaioTico/github-readme-stats)
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=CaioTico&bg_color=000000&color=7e3ace&line=7e3ace&point=4d4d4d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<div style="display: inline_block"><br>
+<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=CaioTico&show_icons=true&count_private=true&hide_border=true&title_color=7E3ACE&icon_color=7E3ACE&text_color=FFF&bg_color=0d1117" alt="Caio Henrique github stats" />
+<img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaioTico&layout=compact&hide_border=true&title_color=7E3ACE&text_color=FFF&bg_color=0d1117" />
+ <p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=CaioTico&theme=midnight-purple&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+</p><br>
+</div><br>
+
 
 ## Curso
 <div style="display: inline_block"><br>
@@ -22,3 +34,12 @@
   <a href="https://www.linkedin.com/in/caio-henrique-22b23427a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
+
+
+<div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{CaioTico}/count.svg" /></p> 
+<br></div>
+  
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7E3ACE&height=120&section=footer"/>
