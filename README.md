@@ -8,7 +8,7 @@
 * 📍 Londrina/PR
 
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=CaioTico&bg_color=000000&color=7e3ace&line=7e3ace&point=4d4d4d&area=true&hide_border=true)]
+![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=CaioTico&bg_color=000000&color=7e3ace&line=7e3ace&point=4d4d4d&area=true&hide_border=true)
 <div style="display: inline_block"><br>
 <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=CaioTico&show_icons=true&count_private=true&hide_border=true&title_color=7E3ACE&icon_color=7E3ACE&text_color=FFF&bg_color=0d1117" alt="Caio Henrique github stats" />
 <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaioTico&layout=compact&hide_border=true&title_color=7E3ACE&text_color=FFF&bg_color=0d1117" />
