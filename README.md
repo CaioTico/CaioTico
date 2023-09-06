@@ -25,7 +25,7 @@
  <img align="center" alt="Caio-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
 </div><br>
 - HTML, CSS Presencial<br>
-- HMTL e Css Avançado Online: com GustavoGuanabara
+- HMTL e Css Avançado Online: com GustavoGuanabara<br>
 - Aprendendo JavaScript Presencial
 
 ##
