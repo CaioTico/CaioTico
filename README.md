@@ -6,7 +6,7 @@
 * 🌱 Atualmente estou trabalhando como desenvolvedor na Bw8 Martech.
 * 📫 caiobigmarle@gmail.com
 * 📍 Londrina/PR<br>
-
+<br>
 
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=CaioTico&bg_color=000000&color=7e3ace&line=7e3ace&point=4d4d4d&area=true&hide_border=true)
 <div style="display: inline_block"><br>
